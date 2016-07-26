@@ -1,2 +1,3 @@
 # hello-world
-Ye Olde Hello World program me
+Ye Olde Hello World programme
+let's try Python
